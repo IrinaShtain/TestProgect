@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView textView = (TextView) findViewById(R.id.tv);
-        textView.setText(R.string.hello);
+        textView.setText("Ok? new");
     }
 }
