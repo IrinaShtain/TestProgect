@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">TestProgect</string>
-    <string name="hello">Hello Git</string>
+    <string name="hello">Git</string>
 </resources>
